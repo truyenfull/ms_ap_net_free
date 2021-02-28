@@ -20,8 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90195f5c-3510-4fe7-ada7-75c0e8744e64" name="Default Changelist" comment="update music">
+      <change afterPath="$PROJECT_DIR$/htrol/Ai Là Người Thương Em ( Htrol Remix ) Quân A.P   Nhạc gây nghiện 2019.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htrol/Album Kết Duyên remix   Bạn Tình Ơi 1 2 3 Remix   Yuniboo x Goctoi   Nhạc Edm Tiktok Gây Nghiện 2021.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htrol/Anh Nhớ Em Nhiều Lắm ( Htrol Remix ) ft Phạm Thành   Nhạc Edm gây nghiện 2020.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htrol/Anh Phải Sống Thế Nào ( Htrol Remix ) Nhật Phong   Nhạc Trẻ Remix EDM Hot Tik Tok Hay Nhất 2020.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htrol/Anh Thanh Niên (Htrol Remix) - HuyR   Nhạc Trẻ Remix Gây Nghiện Hay Nhất Hiện Nay 2020.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htrol/Anh từng cố gắng ( Htrol Remix ft Kin ) Nhật Phong   Nhạc Trẻ Remix EDM Hot Tik Tok Gây Nghiện 2020.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htrol/Anh Đã Khóc Vì Em ( Htrol Remix ) Đinh Tùng Huy   Nhạc Tiktok gây nghiện 2019.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htrol/Bách Hoa Hương - 百花香 ( Htrol Remix ) Nhạc Edm Tiktok htrol remix Gây Nghiện 2020 Hay Nhất Trung Quốc.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htrol/Bán Duyên - Đình Dũng ( Htrol Remix Ft Phạm Thành )   Nhạc gây nghiện 2019.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htrol/Bạn Tình Ơi 2 ( Htrol Remix ) - Yuni Boo ft. Goctoi Mixer - Nhạc EDM Tiktok Gây Nghiện 2020 Hay Nhất.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htrol/Bạn Tình Ơi 3 Remix ( Htrol x Yuni Boo x Goctoi ) Nhạc Edm Hot Tiktok Gây Nghiện 2020 Hay Nhất Remix.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    <list id="e8146822-8174-49f3-971b-c8320fcb0733" name="htrol music" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +51,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -52,6 +64,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="90195f5c-3510-4fe7-ada7-75c0e8744e64" name="Default Changelist" comment="" />
+      <changelist id="e8146822-8174-49f3-971b-c8320fcb0733" name="htrol music" comment="" />
       <created>1614446994602</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -84,6 +97,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="theem folder music" />
@@ -91,9 +105,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="update music" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1091" y="101" key="Vcs.Push.Dialog.v2" timestamp="1614448753378">
+    <state x="-1182" y="13" key="SettingsEditor" timestamp="1614494959847">
       <screen x="-1366" y="0" width="1366" height="738" />
     </state>
-    <state x="-1091" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738/-1366.0.1366.738@-1366.0.1366.738" timestamp="1614448753378" />
+    <state x="-1182" y="13" key="SettingsEditor/0.0.1366.738/-1366.0.1366.738@-1366.0.1366.738" timestamp="1614494959847" />
+    <state x="-836" y="283" key="VCS.ChangelistChooser" timestamp="1614495039247">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state x="-836" y="283" key="VCS.ChangelistChooser/0.0.1366.738/-1366.0.1366.738@-1366.0.1366.738" timestamp="1614495039247" />
+    <state x="-1091" y="101" key="Vcs.Push.Dialog.v2" timestamp="1614494834686">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state x="-1091" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738/-1366.0.1366.738@-1366.0.1366.738" timestamp="1614494834686" />
   </component>
 </project>
